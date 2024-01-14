@@ -2,11 +2,16 @@
 
 Welcome to the Conda Essentials repository, your go-to cheat sheet for using Conda especially in deep learning projects.
 
+**This project is work in progress. Please check back soon!**
+
 **Note**: Please read the [disclaimer](#disclaimer) at the end of this document before using the cheat sheet.
 
 ## Install/uninstall conda environment
 
 `conda create --name py310 python=3.10`
+
+## WIP
+``
 
 ## Contributing
 
